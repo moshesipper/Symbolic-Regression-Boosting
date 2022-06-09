@@ -1,8 +1,7 @@
 # Symbolic-Regression Boosting
 
-Papers are available through [Moshe Sipper's website](http://www.moshesipper.com/).
+Code accompanying the paper: [M. Sipper and J. H. Moore, "Symbolic-Regression Boosting", *Genetic Programming and Evolvable Machines*, 2021](https://drive.google.com/file/d/13v9GhsF7BGft5QCUX3V6bT0jKMq0rD9T/view).
 
-* `syrbo.py`: Code accompanying the paper, M. Sipper and J. H. Moore, "Symbolic-Regression Boosting", *Genetic Programming and Evolvable Machines*, 2021.<br /> 
 Note: class `SyRBo` is scikit-learn-compatible.
 
 If you wish to cite this work:
