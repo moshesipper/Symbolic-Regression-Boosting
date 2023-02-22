@@ -4,7 +4,9 @@ Code accompanying the paper: [M. Sipper and J. H. Moore, "Symbolic-Regression Bo
 
 Note: class `SyRBo` is scikit-learn-compatible.
 
-If you wish to cite this work:
+### Citation
+
+Citations are always appreciated 😊:
 ```
 @article{sipper2021symbolic,
   title={Symbolic-regression boosting},
